@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Charlie的万事屋</title>
+    <link>https://charlielyo1.github.io/post/</link>
+    <description>Recent content in Posts on Charlie的万事屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2021 11:38:35 +0800</lastBuildDate><atom:link href="https://charlielyo1.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo测试篇</title>
+      <link>https://charlielyo1.github.io/post/hugo%E6%B5%8B%E8%AF%95%E7%AF%87/</link>
+      <pubDate>Wed, 10 Feb 2021 11:38:35 +0800</pubDate>
+      
+      <guid>https://charlielyo1.github.io/post/hugo%E6%B5%8B%E8%AF%95%E7%AF%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>算法导论第二章</title>
+      <link>https://charlielyo1.github.io/post/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E7%AC%AC%E4%BA%8C%E7%AB%A0/</link>
+      <pubDate>Mon, 08 Feb 2021 20:29:02 +0800</pubDate>
+      
+      <guid>https://charlielyo1.github.io/post/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E7%AC%AC%E4%BA%8C%E7%AB%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>算法导论第一章</title>
+      <link>https://charlielyo1.github.io/post/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E7%AC%AC%E4%B8%80%E7%AB%A0/</link>
+      <pubDate>Mon, 08 Feb 2021 20:28:50 +0800</pubDate>
+      
+      <guid>https://charlielyo1.github.io/post/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E7%AC%AC%E4%B8%80%E7%AB%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>建站记录（1）</title>
+      <link>https://charlielyo1.github.io/post/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%951/</link>
+      <pubDate>Mon, 08 Feb 2021 20:28:18 +0800</pubDate>
+      
+      <guid>https://charlielyo1.github.io/post/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%951/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>我的第一篇文章</title>
+      <link>https://charlielyo1.github.io/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Mon, 08 Feb 2021 15:16:03 +0800</pubDate>
+      
+      <guid>https://charlielyo1.github.io/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <description> hugo cd public git add . git commit -m &amp;ldquo;XXXXXXX&amp;rdquo; git pull origin master git push origin master
+ tags:
+ Hugo 博客 keywords: Hugo 博客 thumbnailImage: https://d33wubrfki0l68.cloudfront.net/d7c79b5c53384a57cfcf5bfb1a3f6f009a058b0b/16f81/images/gopher-hero.svg  </description>
+    </item>
+    
+  </channel>
+</rss>
